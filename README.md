@@ -8,7 +8,7 @@ The package exposes two functions:
 
 - **getTwitterTime**:
   - For getting twitter date formation: _1h, 1m, 1s, 1d_.
-    - Requires providing valid ISO formatted date either with time ot not, e.g: "2023-07-15T08:45:30.123Z" or "2023-07-15".
+  - Requires providing valid ISO formatted date either with time ot not, e.g: "2023-07-15T08:45:30.123Z" or "2023-07-15".
 - **getTime**:
   - For getting only time: _hh:mm_.
   - Requires providing **time only**, e.g: "08:45:30.123Z".
