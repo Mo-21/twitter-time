@@ -1,0 +1,20 @@
+{
+  "name": "twitter-time",
+  "version": "1.0.0",
+  "description": "Give ISO date, get twitter-like date format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "time",
+    "twitter",
+    "x"
+  ],
+  "author": "Mo-21",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
